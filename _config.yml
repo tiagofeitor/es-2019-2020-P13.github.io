@@ -9,39 +9,29 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: André Santos
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position:
+  
 
-- name: Larry Parker
+- name: Marlene Bastos
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position:
+ 
 
-- name: Diana Petersen
+- name: Diogo Alexandre Duarte
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
+  position:
+ 
+- name: Alexandre Machado
+  pic: 4
+  position:
+  
+- name: Tiago Feitor
+  pic: 5
+  position:
+ 
+  url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
@@ -57,8 +47,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line:
+  - line: 
 
 # Build settings
 markdown: kramdown
