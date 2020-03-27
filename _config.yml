@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
 title: Porto BusFind
+subtitle: Know the exact location of buses in Porto
+sections: [
+    ['doc', 'Documentation'],
+    ['dev', 'Developers'],
+    ['post', 'Posts']
+]
