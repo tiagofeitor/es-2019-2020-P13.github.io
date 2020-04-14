@@ -1,4 +1,4 @@
-## Real time location of Porto's buses
+## Real time bus tracking system
 Use our dashboard to see in the map the exact location of any bus and find if you are on time!
 
 
